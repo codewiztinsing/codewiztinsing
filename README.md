@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @codewiztinsing
 - 👀 I’m interested in solving real world problems using coding
-- 🌱 I’m currently learning machine learning,deep learnig,computer version,and natural language processing
-- 💞️ I’m looking to collaborate on artificial intelegience and cyber security
 - 📫 I pride myself by using python and javascript very efficiently and their framewroks like django,react,scikit learn,opencv,nodeJs and ReactNative
 
 <!---
